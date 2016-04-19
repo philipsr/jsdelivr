@@ -1,0 +1,8 @@
+{
+  "packageManager": "github",
+  "name": "canvas-png-compression",
+  "repo": "ShyykoSerhiy/canvas-png-compression",
+  "files": {
+    "include": ["bundle.js"]
+  }
+}
